@@ -5,13 +5,13 @@
  Debido a que los archivos de las imagenes provistas por la universidad Linkoping y las imagenes generadas tienen un peso mayor a 3 Gb no fue posible subirlas al Github. Sin embargo aqui proveo los links a google drive donde subi las imagenes.
 
 
- Imagenes  Originales (propiedad de linkoping U) (carpeta data): 
+ Imagenes  Originales (propiedad de linkoping U) (carpeta data): <https://drive.google.com/file/d/17Yrm0Lz9uMtWi6qAJ0LvyVk3fGyLvF5y/view?usp=sharing>
 
- Imagenes segmentadas en escala de gris (carpeta mascaras):
+ Imagenes segmentadas en escala de gris (carpeta mascaras): <https://drive.google.com/file/d/1aAkUv1lGVViEZ1a9AASZWPkBj4ZaeiRu/view?usp=sharing>
  
- Imagenes binarias (carpeta binarios):
+ Imagenes binarias (carpeta binarios): <https://drive.google.com/file/d/1kQuwBlFVynocfcsaTQTN0Qrd7LFpyh_Y/view?usp=sharing>
 
- Imagenes de la clasificacion Online (carpeta validacion): 
+ Imagenes de la clasificacion Online (carpeta validacion): <https://drive.google.com/file/d/1kburv76XuRjlGYXvtmPeuXGth-rfgLVV/view?usp=sharing>
 
 Todas las carpetas (con el nombre como esta descrito) deben encontrarse en la misma ubicacion que las libretas de jupyter 
 
