@@ -16,9 +16,13 @@
 Todas las carpetas (con el nombre como esta descrito) deben encontrarse en la misma ubicacion que las libretas de jupyter 
 
  El orden de ejecucion es como sigue:
+
  1 LeafsDoMasks (requiere de las imagenes originales, es decir la carpeta data)
+
  2 LeafsGetData (requiere de las imagenes segmentadas y binarias)
+
  3 SVM (requiere de los archivos .csv de Train y Test)
+
  4 OnlineClassification (requiere de las imagenes segmentadas y binarias)
 
  Los archivos .csv que se adjuntan en este git vienen por pares una para el conjunto de entrenamiento y otra para prueba.
@@ -26,4 +30,7 @@ Para prueba el archivo se llama texturaTestXyX.csv donde X X es un numero y repr
 Para entrenamiento el archivo se llama texturaTrainXyX.csv donde X X es un numero y representa la cantidad empleada de superpixeles por imagen. En el reporte .pdf se utiliza texturaTrain10y10.csv ya que este valor fue el optimo en cuanto a recursos temporales
 
 Requerimientos obligatorios:
+
 Se encontro que para el calculo de superpixeles en un region de interes y no sobre toda la imagen se requiere instalar scikit-image en su version 0.17.2 o superior. Si no se cumple este requerimiento esta funcion truena.
+
+Para entender todo el proceso que se sigue en este proyecto lea el reporte ReporteAAFloresSilvaPedro.pdf incluido en este git.
